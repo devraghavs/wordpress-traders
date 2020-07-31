@@ -1,0 +1,10 @@
+[24-Nov-2018 09:43:48] PHP Parse error:  syntax error, unexpected '{' in /home/sdtopddg/public_html/shreenathgtraders.com/wp-admin/setup-config.php on line 296
+[24-Nov-2018 09:43:50] PHP Notice:  Use of undefined constant E_RECOVERABLE_ERROR - assumed 'E_RECOVERABLE_ERROR' in /home/sdtopddg/public_html/shreenathgtraders.com/wp-load.php on line 24
+[24-Nov-2018 09:43:50] PHP Parse error:  syntax error, unexpected T_STRING in /home/sdtopddg/public_html/shreenathgtraders.com/wp-includes/load.php on line 1095
+[24-Nov-2018 21:04:05] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/sdtopddg/public_html/shreenathgtraders.com/wp-admin/index.php on line 111
+[05-Dec-2018 21:39:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=1037670 in /home/sdtopddg/public_html/shreenathgtraders.com/wp-includes/wp-db.php on line 1924
+[10-Dec-2018 01:39:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=2145806 in /home/sdtopddg/public_html/shreenathgtraders.com/wp-includes/wp-db.php on line 1924
+[10-Jan-2019 18:02:31 UTC] PHP Warning:  Error while sending QUERY packet. PID=3539829 in /home/sdtopddg/public_html/shreenathgtraders.com/wp-includes/wp-db.php on line 1924
+[01-Feb-2019 14:19:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=10574 in /home/sdtopddg/public_html/shreenathgtraders.com/wp-includes/wp-db.php on line 1924
+[01-Feb-2019 14:20:10 UTC] PHP Warning:  Error while sending QUERY packet. PID=10574 in /home/sdtopddg/public_html/shreenathgtraders.com/wp-includes/wp-db.php on line 1924
+[01-Feb-2019 16:53:54 UTC] PHP Warning:  Error while sending QUERY packet. PID=19207 in /home/sdtopddg/public_html/shreenathgtraders.com/wp-includes/wp-db.php on line 1924

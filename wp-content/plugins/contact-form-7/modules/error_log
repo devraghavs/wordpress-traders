@@ -1,0 +1,16 @@
+[28-Aug-2018 01:14:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/plugins/contact-form-7/modules/acceptance.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/plugins/contact-form-7/modules/acceptance.php on line 8
+[29-Aug-2018 15:21:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/plugins/contact-form-7/modules/acceptance.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/plugins/contact-form-7/modules/acceptance.php on line 8
+[30-Aug-2018 16:48:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/plugins/contact-form-7/modules/acceptance.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/plugins/contact-form-7/modules/acceptance.php on line 8
+[30-Aug-2018 16:48:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/plugins/contact-form-7/modules/acceptance.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/plugins/contact-form-7/modules/acceptance.php on line 8

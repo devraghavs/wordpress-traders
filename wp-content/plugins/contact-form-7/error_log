@@ -1,0 +1,4 @@
+[28-Aug-2018 03:48:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19

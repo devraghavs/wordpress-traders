@@ -1,0 +1,8 @@
+[31-Jan-2019 05:42:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/plugins/hello.php on line 59
+[08-Apr-2019 07:33:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/plugins/hello.php on line 59

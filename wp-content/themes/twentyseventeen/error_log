@@ -1,0 +1,8 @@
+[29-Aug-2018 06:07:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[29-Aug-2018 14:58:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/sdtopddg/public_html/shreenathgtraders.com/wp-content/themes/twentyseventeen/footer.php on line 22
